@@ -98,3 +98,16 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+
+button {
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding: 5px 20px;
+	margin: 25px 0 0;
+	font-family: Raleway, "Droid Serif";
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	border: transparent;
+	font-weight: 500;
+}
